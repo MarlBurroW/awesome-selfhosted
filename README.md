@@ -1082,6 +1082,7 @@ _Related: [Games](#games)_
 - [Onyx Community Edition](https://onyx.app) - Chat UI that works with any LLM. It comes loaded with advanced features like agents, web search, RAG, MCP, deep research, Connectors to 40+ knowledge sources, and more. ([Source Code](https://github.com/onyx-dot-app/onyx)) `MIT` `Docker/K8S`
 - [Open-WebUI](https://openwebui.com) - User-friendly AI Interface, supports Ollama, OpenAI API. ([Source Code](https://github.com/open-webui/open-webui)) `BSD-3-Clause` `Docker/Python`
 - [Perplexica](https://github.com/ItzCrazyKns/Perplexica) - AI-powered search engine (alternative to Perplexity AI). `MIT` `Docker`
+- [PinchChat](https://github.com/MarlBurroW/pinchchat) - Open-source webchat UI for OpenClaw with ChatGPT-like interface, live tool call visualization, multi-session management, token usage tracking, streaming, and PWA support. `MIT` `Nodejs/Docker`
 - [TuxSEO](https://tuxseo.com/) `⚠` - Create automated blog content for your business, using AI. ([Source Code](https://github.com/rasulkireev/TuxSEO)) `MIT` `Python/Django/Docker`
 
 
